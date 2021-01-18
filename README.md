@@ -1,7 +1,7 @@
 # Porfolio
 Project Portfolio
 ***
-# **NYC-SAT-Analysis**
+# **CAR PRICE PREDICTION USING ML**
 
 Car data prediction using ML , and deployment live on website.
 
