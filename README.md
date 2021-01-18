@@ -11,17 +11,17 @@ The aim of this project is to predict house prices using one basic machine learn
 ### Index
 1. Import Libraries
 2. Import and Load Data Set
-Cleaning
-a. Basic
-b. Advanced
-c. Filling in missing values
-Exploratory Data Analysis
-a. Univariate Statistics
-b. Plots (Bar chart, scatter)
-c. Correlation matrix | heatmap
-Preprocessing
-Modeling & Testing
-Evaluation
+3. Cleaning
+  a. Basic
+  b. Advanced
+  c. Filling in missing values
+4. Exploratory Data Analysis
+  a. Univariate Statistics
+  b. Plots (Bar chart, scatter)
+  c. Correlation matrix | heatmap
+5.  Preprocessing
+6. Modeling & Testing
+7. Evaluation
 
 ## Install
 This project requires Python 3 and the following Python libraries installed:
