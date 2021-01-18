@@ -42,12 +42,12 @@ All the code is in the notebook `CarDataPrediciton.ipynb`.
 In a terminal or command window, navigate to the top-level project directory titanic_survival_exploration/ (that contains this README) and run one of the following commands:
 
 ```
-jupyter notebook CarDataPrediciton..ipynb
+jupyter notebook CarDataPrediciton.ipynb
 ```
 
 or
 ```
-ipython notebook CarDataPrediciton..ipynb
+ipython notebook CarDataPrediciton.ipynb
 ```
 This will open the Jupyter Notebook software and project file in your web browser.
 
