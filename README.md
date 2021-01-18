@@ -6,7 +6,7 @@ Project Portfolio
 Car data prediction using ML , and deployment live on website.
 
 ## Context 
-The aim of this project is to predict house prices using one basic machine learning algorithms such Linear Regression, and advanced algorithms like: Random Forest, ExtraTreesRegressor, Random Forest CV, and SVM, XGBOOST. We will also use regression and statistics tool in our analysis to understand the information with in the dataset. Then we deploy the model online.
+The aim of this project is to predict house prices using one basic machine learning algorithms such Linear Regression, and advanced algorithms like: Random Forest, ExtraTreesRegressor, Random Forest CV, SVM, and XGBOOST. We will also use regression and statistics tool in our analysis to understand the information with in the dataset. Then we deploy the model online.
 
 ### Index
 1. Import Libraries
